@@ -1,14 +1,22 @@
 # Pulse Analytics — Admin Dashboard
 
+A modern SaaS admin dashboard built with React 19, TypeScript, Tailwind CSS v4 and Recharts, with dark and light themes.
+
+**[Live demo](https://pulse-analytics-touka.vercel.app)** · sign in with any email and password.
+
+![Pulse Analytics overview in dark mode](docs/screenshots/overview-dark.png)
+
 > **Concept project.** Pulse Analytics is a fictional SaaS product. This is a portfolio piece showcasing a modern admin dashboard UI — there is no real backend, no real users, and no real data. All numbers are generated mock data.
 
-## Live preview
+## Screenshots
 
-![Overview page screenshot](docs/screenshot-overview.png)
-![Customers page screenshot](docs/screenshot-customers.png)
-![Login page screenshot](docs/screenshot-login.png)
+| Overview (light) | Customers with detail drawer |
+| --- | --- |
+| ![Overview in light mode](docs/screenshots/overview-light.png) | ![Customers table with the detail drawer open](docs/screenshots/customers-drawer.png) |
 
-*(screenshots above are placeholders — add your own after running the app)*
+| Login | Mobile (375px) |
+| --- | --- |
+| ![Login page](docs/screenshots/login.png) | <img src="docs/screenshots/mobile-overview.png" alt="Overview on a 375px mobile screen" width="280"> |
 
 ## Features
 
